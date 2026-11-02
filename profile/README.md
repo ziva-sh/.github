@@ -1,9 +1,9 @@
-<p align="center">
-  Game development takes far too long.
-  <br/>
-  But not anymore.
-  <br/>
-  <h1><a href="https://ziva.sh"><strong>Ziva.sh ></strong></a></h1>
+# Ziva.sh - AI Assistant Inside the Godot Editor
 
-  Ziva brings an AI agent harness specialized for game development, 3D world building, and playtesting, straight to your game engine. Supporting all frontier models and a custom low-cost, post-trained model for Godot and Unity, it's the best bang for buck solution out there to game development.
-</p>
+Ziva.sh is an AI assistant built into the Godot editor. It creates and edits scenes,
+nodes, and scripts; reads editor errors and output, runs tests, and fixes failures;
+and playtests games with real keyboard and mouse input.
+
+- Download: https://ziva.sh/download
+- Documentation: https://ziva.sh/docs
+- Godot plugin: https://github.com/ziva-sh/ziva-agent-plugin-godot
