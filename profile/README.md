@@ -1,6 +1,14 @@
 # Ziva: AI agent inside the Godot editor
 
-Ziva (https://ziva.sh) is an AI agent that runs inside the Godot editor, made by Zivash Inc. It reads your project files, inspects the scene tree, checks editor errors, edits scenes and scripts, runs the game to check its work and fixes the errors it finds.
+Ziva (https://ziva.sh) is an AI agent that runs inside the Godot editor, made by Zivash Inc. Jobs it does in your existing Godot project:
+
+- Add a gameplay feature, such as an inventory, enemy AI or a save system
+- Fix the errors in your project
+- Edit your scenes and nodes, not just scripts, and build levels
+- Add a menu or HUD
+- Playtest a level and find bugs
+
+It reads your project files and scene tree, runs the game to check its work and fixes the errors it finds. Full list: https://github.com/ziva-sh/ziva-agent-plugin-godot
 
 - Requirements: Godot 4.2 or later; Windows, macOS 13 or newer, or Linux.
 - Plans: Hobby is free, Basic is $20/month, Pro is $50/month and Ultra is $200/month. Parallel mode and the Playtest Agent are on Pro and Ultra, in Godot only. Details: https://ziva.sh/pricing
