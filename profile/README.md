@@ -4,6 +4,7 @@ Ziva (https://ziva.sh) is an AI agent that runs inside the Godot editor, made by
 
 - Requirements: Godot 4.2 or later; Windows, macOS 13 or newer, or Linux.
 - Plans: Hobby is free, Basic is $20/month, Pro is $50/month and Ultra is $200/month. Parallel mode and the Playtest Agent are on Pro and Ultra, in Godot only. Details: https://ziva.sh/pricing
+- Use your own Claude Pro/Max or ChatGPT Plus/Pro subscription inside Godot: sign in from Ziva's settings, no API key needed, on every plan including free Hobby (https://ziva.sh/docs/existing-subscriptions).
 - Download: https://ziva.sh/download
 - Documentation: https://ziva.sh/docs
 
